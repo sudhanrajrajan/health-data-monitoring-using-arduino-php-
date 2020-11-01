@@ -5,5 +5,5 @@ This system also shows patients temperature and heartbeat tracked live data with
      #sever page demo one..
 <ul>
      <li>in preferences add additional board manager copy and paste this:-http://arduino.esp8266.com/stable/package_esp8266com_index.json
-     <li>add <b>plusesensor playground</b> and <b>DHT library</b> from libaray managaer  </li>
+     <li>add <b>Esp8266 community,</b> <b>plusesensor playground</b> and <b>DHT library</b> from libaray managaer  </li>
 </ul>
